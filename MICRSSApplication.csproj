@@ -7,8 +7,8 @@
     <ProjectGuid>{9226AA22-5AD0-444E-8E43-D3D2B238728E}</ProjectGuid>
     <OutputType>AppContainerExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>VerySimpleRSS</RootNamespace>
-    <AssemblyName>VerySimpleRSS</AssemblyName>
+    <RootNamespace>MICRSSApplication</RootNamespace>
+    <AssemblyName>MICRSSApplication</AssemblyName>
     <DefaultLanguage>ru-RU</DefaultLanguage>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{BC8A1FFA-BEE3-4634-8014-F334798102B3};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -103,6 +103,7 @@
     <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
     <Content Include="Assets\DarkGray.png" />
     <EmbeddedResource Include="Assets\LightGray.png" />
+    <Content Include="Assets\emblem.png" />
     <Content Include="Assets\fone.jpg" />
     <Content Include="Assets\Logo1.png" />
     <Content Include="Assets\MediumGray.png" />
@@ -138,7 +139,6 @@
     </AppxManifest>
     <EmbeddedResource Include="Common\PFBeauSansPro-Light.ttf" />
     <None Include="Common\ReadMe.txt" />
-    <None Include="VerySimpleRSS_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">

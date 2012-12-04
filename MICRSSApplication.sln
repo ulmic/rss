@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerySimpleRSS", "VerySimpleRSS.csproj", "{9226AA22-5AD0-444E-8E43-D3D2B238728E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MICRSSApplication", "MICRSSApplication.csproj", "{9226AA22-5AD0-444E-8E43-D3D2B238728E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
